@@ -11,11 +11,6 @@ export default function Home() {
             project is to stay in tune with the latest in tech, while critically
             examining the human factor of adopting intelligence.
           </p>
-          <p>
-            This, in my opinion, is where the tastebuds of building AI
-            experiences can grow for a product designer in this age—akin to
-            doing layout exercises.
-          </p>
           <p>100% organic, free-range writing.</p>
           <p>- Alvin</p>
           <div className="opacity-50 mt-2">Actual writing coming soon...</div>
