@@ -10,7 +10,7 @@ const oldStyleNow = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Alvin's Journal",
+  title: "Alvin's Private Journal",
   description: "In search of something useful",
 };
 
